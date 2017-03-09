@@ -1,0 +1,17 @@
+
+
+
+li {
+	margin: 10px;
+ 	border-bottom: 1.5px solid #b2dfdb;
+}
+
+
+p > [type="checkbox"]+label{
+  height:17px;
+  left:10px;
+}
+
+#taskList{
+	padding-left:46px;
+}
